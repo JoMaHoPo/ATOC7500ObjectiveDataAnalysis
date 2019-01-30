@@ -1,4 +1,4 @@
-January 23, 2019
+January 29, 2019
 Jennifer Kay (Jennifer.E.Kay@colorado.edu)
 Readme for github repo https://github.com/jenkayco/ATOC7500ObjectiveDataAnalysis
 
@@ -8,3 +8,6 @@ Files uploaded include:
 test_jupyternotebook.ipynb - test file
 ATOC7500_applicationlab1_bootstrapping.ipynb - application lab #1 on bootstrapping
 snow_enso_data.csv - data needed for ATOC7500_applicationlab1_bootstrapping.ipynb
+ATOC7500_applicationlab_ztest_ttest.ipynb — application lab #1 on ztest/test
+TS_timeseries_cesmle_1850.nc - data needed for ATOC7500_applicationlab_ztest_ttest.ipynb 
+TS_timeseries_cesmle_1920_2100.nc- data needed for ATOC7500_applicationlab_ztest_ttest.ipynb
