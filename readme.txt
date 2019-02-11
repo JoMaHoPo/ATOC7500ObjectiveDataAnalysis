@@ -1,4 +1,4 @@
-January 29, 2019
+January 29, 2019; last updated February 11, 2019
 Jennifer Kay (Jennifer.E.Kay@colorado.edu)
 Readme for github repo https://github.com/jenkayco/ATOC7500ObjectiveDataAnalysis
 
