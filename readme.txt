@@ -20,3 +20,10 @@ christman_2016.csv - data needed for ATOC7500_applicationlab2_AR1_Nstar.ipynb
 ATOC7500_applicationlab2_AR1_regression_AO.ipynb - application lab on red noise and regression using the Arctic Oscillation
 monthly.ao.index.b50.current.ascii - data needed for ATOC7500_applicationlab2_AR1_regression_AO.ipynb
 
+ATOC7500_applicationlab3_guidance.docx - lab3 guidance
+ATOC7500_applicationlab3_eof_analysis_cosineweighting_cartopy.ipynb - application lab on EOF/PCA of Sea Surface Temperatures
+ATOC7500_applicationlab3_eigenfaces.ipynb - application lab on EOF/PCA of faces
+att_faces.npy - data needed for ATOC7500_applicationlab3_eigenfaces.ipynb
+culabenv_packagelist_feb152019.txt - python environment, see lab3 guidance for installing on Mac with Anaconda
+***Note: The data needed for ATOC7500_applicationlab3_eof_analysis_cosineweighting_cartopy.ipynb are too big to upload to github***
+***Please download yourself from http://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
