@@ -1,4 +1,4 @@
-January 29, 2019; last updated February 27, 2019
+January 29, 2019; last updated March 20, 2019
 Jennifer Kay (Jennifer.E.Kay@colorado.edu)
 Readme for github repo https://github.com/jenkayco/ATOC7500ObjectiveDataAnalysis
 
@@ -27,3 +27,9 @@ att_faces.npy - data needed for ATOC7500_applicationlab3_eigenfaces.ipynb
 culabenv_packagelist_feb152019.txt - python environment, see lab3 guidance for installing on Mac with Anaconda
 ***Note: The data needed for ATOC7500_applicationlab3_eof_analysis_cosineweighting_cartopy.ipynb are too big to upload to github***
 ***Please download yourself from http://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
+
+ATOC7500_applicationlab4_guidance - lab4 guidance
+ATOC7500_applicationlab4_fft_EPICA.ipynb - application lab on ice core spectral analysis
+edc3deuttemp2007_nohead.txt - ice core data
+ATOC7500_applicationlab4_fft_christman.ipynb - application lab on Fort Collins weather spectral analysis
+Christman_data_nomissing.csv - Fort Collins weather data
