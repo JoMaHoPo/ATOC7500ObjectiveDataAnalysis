@@ -5,14 +5,24 @@ Readme for github repo https://github.com/jenkayco/ATOC7500ObjectiveDataAnalysis
 This github repo contains code used for ATOC7500 Objective Data Analysis in Spring 2019.
 
 Files uploaded include:
+
+#### test file ####
 test_jupyternotebook.ipynb - test file
 
-culabenv_packagelist_april2019.txt - python package list
+#### instructions for reproducing the python environment ####
+culabenv_packagelist_final2019.txt - python package list
 
-Note: to use python package list assuming anaconda is installed - type the following
+Note: to use python package list to recreate the python environment.
+1) Install anaconda.
+2) Recreate the environment including all python packages needed for the labs below by typing the following:
 
-"conda create --name culabenv_april2019 --file culabenv_packagelist_april2019.txt"
-"source activate culabenv_april2019"
+"conda create --name culabenv_final2019 --file culabenv_packagelist_final2019.txt"
+"source activate culabenv_final2019"
+
+earlier versions of the python environment from february and april are also still in this github.
+there should be no reason to use them but they are kept here just in case.
+culabenv_packagelist_feb152019.txt
+culabenv_packagelist_april2019.txt
 
 #### application labs! #####
 
