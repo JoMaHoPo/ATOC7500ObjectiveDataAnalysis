@@ -1,4 +1,4 @@
-January 29, 2019; last updated April 11, 2019
+January 29, 2019; last updated April 26, 2019
 Jennifer Kay (Jennifer.E.Kay@colorado.edu)
 Readme for github repo https://github.com/jenkayco/ATOC7500ObjectiveDataAnalysis
 
@@ -48,4 +48,6 @@ ATOC7500_applicationlab5_synthetic_data_with_filters.ipynb - application lab on 
 ATOC7500_applicationlab5_ENSO_mrbutterworth.ipynb - application lab on butterworth filter using nino3.4 ENSO index data from CESM Large Ensemble
 CESM_nino34.p - pickled data needed for ATOC7500_applicationlab5_ENSO_mrbutterworth.ipynb, beware issues with xarray updates (hopefully solved)
 
-
+ATOC7500_applicationlab6_da_with_kalman_filter_static.ipynb - lab6 on data assimilation (author Luke Madaus)
+GEFS_forecast.p - Global Ensemble Forecast System forecast for April 26, 2019 -- data needed for lab6
+Note: Luke's version of this lab is available on github here: https://github.com/lmadaus/da_demo
